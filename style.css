@@ -35,3 +35,14 @@ h1 {
   left: 50%;
   transform: translate(-50%, -50%);
 }
+
+/* Images */
+
+.images {
+  margin: 10px 30%;
+}
+
+.images img {
+  width: 100%;
+  margin-top: 15px;
+}
