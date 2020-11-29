@@ -46,3 +46,15 @@ h1 {
   width: 100%;
   margin-top: 15px;
 }
+
+/* Media Queries for mobile */
+
+@media screen and (max-width: 600px) {
+  h1 {
+    font-size: 20px;
+  }
+
+  .images {
+    margin: 10px;
+  }
+}
